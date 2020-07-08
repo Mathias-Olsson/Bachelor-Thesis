@@ -1,5 +1,4 @@
 # Bachelor-Thesis
-DTU Bachelor Thesis F20
 
 This repository contains all the code for both MATLAB and OpenViBE used in our Bachelor Thesis.
 
